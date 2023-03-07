@@ -1,0 +1,1 @@
+myreverse(str) = str[end:-1:begin]
