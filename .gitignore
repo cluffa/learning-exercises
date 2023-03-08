@@ -1,2 +1,7 @@
+# should exclue executables with no extension
+*
+!/**/
+!*.*
+
 *.out
 *.mod
